@@ -2,10 +2,10 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2016-04-01T00:00:00"
 
 # Order that this section will appear in.
-weight = 5
+weight = 2
 
 # List your academic interests.
 #[interests]
@@ -30,17 +30,25 @@ weight = 5
 #  course = "BSc in Artificial Intelligence"
 #  institution = "Massachusetts Institute of Technology"
 #  year = 2008
- 
+
 +++
 
 # About
 
 I am a sixth (and final) year graduate student in the Department of Physics and
 Astronomy at Seoul National University, Republic of Korea. I am working
-with [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim) for my PhD degree. My
-main research interest is in understanding the dynamics of ionized bubbles ("HII
-regions") formed around young star clusters and their impact on natal molecular
-clouds.
+with [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim) for my PhD degree. 
+
+<!---
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+-->
+
+
+# Research
+
+My main research interest is in understanding the dynamics of ionized bubbles
+("HII regions") formed around young star clusters and their impact on natal
+molecular clouds.
 
 Using linear stability analysis as well as numerical simulations, I have
 previously studied gravitational instability of a thin layer confined by an

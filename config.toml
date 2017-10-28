@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, or `coffee`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -39,16 +39,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Jeong-Gyu Kim"
-  role = "PhD Candidate"
+  role = "PhD Candidate in Astronomy"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Seoul National University", url = "https://astro2.snu.ac.kr" } ]
+  organizations = [ { name = "Seoul National University", url = "http://astro2.snu.ac.kr/e_main.php" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jgkim at astro.snu.ac.kr"
-  address = "#314 Bldg. 19, Department of Physics and Astronomy, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+  address = "Bldg. 19, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "+82-10-8638-0722"
   #skype = "omyojj"
@@ -76,7 +76,7 @@ defaultContentLanguageInSubdir = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  #reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -120,7 +120,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -185,9 +185,9 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "github"
     icon_pack = "fa"
-    link = "mailto:jgkim@astro.snu.ac.kr"
+    link = "//github.com/jeonggyukim"
 
   [[params.social]]
     icon = "ads"
@@ -199,20 +199,20 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "http://arxiv.org:443/find/astro-ph/1/au:+Kim_Jeong_Gyu/0/1/0/all/0/1"
 
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
-
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.kr/citations?hl=en&user=We6smpoAAAAJ&view_op=list_works&gmla=AJsN-F6cXjNWcHUtDMHg70KrA-W9AluJGJ7P-PiQfTcI7EPiHnOa7ksW-O7O3rGPYTdt-XZ-UfJN0sg9m_hdqdu2E_Hp-9weKY0Hbh5c4AgoKWacGSjmryg"
-    
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/jeonggyukim"
+
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:jgkim@astro.snu.ac.kr"
+
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/GeorgeCushen"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -225,14 +225,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "CV"
+  url = "files/cv.pdf"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 3
 
 # [[menu.main]]
 #   name = "Projects"
