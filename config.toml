@@ -157,7 +157,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
@@ -212,7 +212,7 @@ defaultContentLanguageInSubdir = false
   # [[params.social]]
   #   icon = "twitter"
   #   icon_pack = "fa"
-  #   link = "//twitter.com/GeorgeCushen"
+  #   link = "//twitter.com/astrojeans"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -225,18 +225,18 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 2
+
+[[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 2
+  weight = 3
 
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
-#   weight = 3
-
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
 #   weight = 4
 
 [[menu.main]]
@@ -247,7 +247,7 @@ defaultContentLanguageInSubdir = false
 # [[menu.main]]
 #   name = "Teaching"
 #   url = "#teaching"
-#   weight = 5
+#   weight = 6
 
 # Taxonomies.
 [taxonomies]

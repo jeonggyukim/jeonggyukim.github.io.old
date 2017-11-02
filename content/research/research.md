@@ -1,11 +1,11 @@
 +++
-# Projects widget.
-# This widget displays all projects from `content/project/`.
-widget = "projects"
+# Research widget.
+# This widget displays all projects from `content/research/`.
+widget = "research"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
