@@ -7,6 +7,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
+buildDrafts = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -225,7 +226,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Projects"
+  name = "Research"
   url = "#projects"
   weight = 2
 

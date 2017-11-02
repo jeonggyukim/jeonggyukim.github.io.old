@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "projects/Untitled.png"
-caption = "(Left): Map of emission measure of ionized gas in simulated cloud (Right): NGC 602  Simulat :smile:"
+image = "projects/Comparison-Simulation-HST2.png"
+caption = ""
 
 +++
 
