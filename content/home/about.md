@@ -13,7 +13,7 @@ weight = 2
     "Giant Molecular Clouds",
     "Massisve Star Feedback",
     "Radiation Hydrodynamics",
-    "Instabilities in the Interstellar Medium"
+    "Instabilities in Fluid Dynamics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,13 +40,11 @@ Astronomy at Seoul National University, Republic of Korea, working
 with [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim) for my PhD degree. I
 expect to defend my dissertation in June, 2018. My research focus is on
 theoretical and computational astrophysics in the areas of star formation and
-interstellar medium (ISM). The primary goal of my thesis is to understand the
+interstellar medium (ISM). The primary goal of my research is to understand the
 dynamics of ionized bubbles ("HII regions") formed around young star clusters
 and their impact on natal molecular clouds.
 
-Using linear stability analysis as well as numerical simulations, I have
-previously studied gravitational instability of a gaseous disk confined by an
-external pressure, interfacial instability of evaporation fronts in the
-two-phase ISM, wiggle instability of galactic spiral shocks, and instability of
-ionization fronts surrounding HII regions.
-
+Prior to embarking on the thesis project, I studied gravitational instability of
+a gaseous disk confined by an external pressure, interfacial instability of
+evaporation fronts in the two-phase ISM, wiggle instability of galactic spiral
+shocks, and instability of magnetized ionization fronts surrounding HII regions.
