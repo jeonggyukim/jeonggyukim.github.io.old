@@ -3,7 +3,7 @@
 date = "2017-11-02"
 
 # Project title.
-title = "Star Cluster Formation in Molecular Clouds"
+title = "Cloud Dispersal by Radiation Feedback"
 
 # Project summary to display on homepage.
 summary = "Radiation hydrodynamic simulations of star cluster formation and cloud dispersal by UV radiation feedback"
@@ -24,7 +24,7 @@ math = true
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "projects/R136-high-res.jpg"
-caption = "(left) The Tarantula Nebula is a giant HII region in the Large Magellanic Cloud. (middle) At the heart of the nebula lies a massive open star cluster NGC 2070. (right) The central R136 cluster is about 2 parsecs across. (Image Credit: ESO)"
+caption = "(left) The Tarantula Nebula is a giant HII region in the Large Magellanic Cloud. (middle) At the heart of the nebula lies a massive open star cluster NGC 2070. (right) The R136 cluster contains thousands of massive stars. (Image Credit: ESO)"
 
 +++
 
