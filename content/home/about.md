@@ -35,7 +35,7 @@ weight = 2
 
 # About
 
-I am a sixth (and final) year graduate student in the Department of Physics and
+I am a final year graduate student in the Department of Physics and
 Astronomy at Seoul National University, Republic of Korea, working
 with [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim) for my PhD degree. I
 expect to defend my dissertation in June, 2018. My research focus is on
