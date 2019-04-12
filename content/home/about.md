@@ -35,14 +35,12 @@ weight = 2
 
 # About
 
-I am a final year graduate student in the Department of Physics and
-Astronomy at Seoul National University, Republic of Korea, working
-with [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim) for my PhD degree. I
-expect to defend my dissertation in June, 2018. My research focus is on
-theoretical and computational astrophysics in the areas of star formation and
-interstellar medium (ISM). The primary goal of my research is to understand the
-dynamics of ionized bubbles ("HII regions") formed around young star clusters
-and their impact on natal molecular clouds.
+I am a first-year postdoc in the Department of Astrophysical Sciences at
+Princeton University. I received my PhD from Seoul National University in 2018.
+My research focus is on theoretical and computational astrophysics in the areas
+of star formation and interstellar medium (ISM). The primary goal of my research
+is to understand the impact of UV radiation from massive stars on the evolution
+of molecular clouds and diffuse ISM.
 
 Prior to embarking on the thesis project, I studied gravitational instability of
 a gaseous disk confined by an external pressure, interfacial instability of

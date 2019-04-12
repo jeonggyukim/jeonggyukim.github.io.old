@@ -198,7 +198,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
-    link = "http://arxiv.org:443/find/astro-ph/1/au:+Kim_Jeong_Gyu/0/1/0/all/0/1"
+    link = "https://arxiv.org/a/0000-0001-6228-8634.html"
 
   [[params.social]]
     icon = "google-scholar"
