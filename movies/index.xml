@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Jeong-Gyu Kim</title>
+    <link>/movies/</link>
+    <description>Recent content in Movies on Jeong-Gyu Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jeong-Gyu Kim</copyright>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulation Movies</title>
+      <link>/movies/movies/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/movies/movies/</guid>
+      <description>Some are research-grade products and some are made just for fun. All simulations are run with the Athena code unless otherwise noted.
+Star Cluster Formation
+  Thermal Instability
+  </description>
+    </item>
+    
+  </channel>
+</rss>
